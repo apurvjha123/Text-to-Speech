@@ -9,7 +9,7 @@ It is actually a Front End website which you can use to convert any text to voic
 
 ## Framework
 
--Bootstrap
+- Bootstrap
 
 ## App used for deployment
   
