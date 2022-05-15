@@ -7,6 +7,10 @@ It is actually a Front End website which you can use to convert any text to voic
 - CSS
 - JavaScript
 
+## Framework
+
+-Bootstrap
+
 ## App used for deployment
   
    Netlify
